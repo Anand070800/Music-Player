@@ -8,7 +8,7 @@
 <br/>⇒ Next Song will automatic start after end of current song.
 <br/>⇒ Responsive
 <br/>
-For Live Demo: 
+For Live Demo: https://anand070800.github.io/Music-Player/
 <br/>
 <br/>
 Screenshots
